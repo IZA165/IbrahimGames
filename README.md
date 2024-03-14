@@ -1,6 +1,6 @@
-<img src="https://i.ibb.co/KDMHcwX/unnamed.png">
+<img src="https://i.ibb.co/KDMHcwX/unnamed.png" width="250" height="250">
   <p align="center">
-    IbrahimGames game website that hosts 300+ games with cloaking tab functionality, multiple themes, full rehosting support and content updates frequently
+    IbrahimGames hosts 300+ games with cloaking tab functionality, multiple themes and frequent content updates
     <br/>
     <a href="https://iza165.github.io/IbrahimGames/">go to IbrahimGames</a>
     ·
