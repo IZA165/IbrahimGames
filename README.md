@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/KDMHcwX/unnamed.png" width="250" height="250">
+<img src="https://i.ibb.co/KDMHcwX/unnamed.png" width="100" height="100" class="center">
   <p align="center">
     IbrahimGames hosts 300+ games with cloaking tab functionality, multiple themes and frequent content updates
     <br/>
