@@ -23,8 +23,7 @@
 
 **Contributions**
 - Adam Khan: tester and developer
-- Toluwa Ibiyode: tester
-
+  
 [Raise suggestions on GitHub](https://github.com/iza165/IbrahimGames/issues/new/choose), which can include:
 - **Game Suggestions:** Suggest games to be added to IbrahimGames! Please provide a link if you have one.
 - **Website Suggestions:** Suggset features to be added to the website
