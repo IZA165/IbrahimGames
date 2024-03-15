@@ -22,7 +22,7 @@
 - emulatorjs: enables game boy color, game boy advance, nintendo ds, snes, nes and sega mega drive games to run on the website 
 
 **Contributions**
-- Adam Khan: tester and developer
+- Adam.K <a href="https://github.com/noble-adam-11">@noble-adam-11</a>: tester and developer
   
 [Raise suggestions on GitHub](https://github.com/iza165/IbrahimGames/issues/new/choose), which can include:
 - **Game Suggestions:** Suggest games to be added to IbrahimGames! Please provide a link if you have one.
